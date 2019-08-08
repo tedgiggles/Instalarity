@@ -1,1 +1,1 @@
-# Instolarity
+# Instalarity
